@@ -42,3 +42,4 @@ node_modules
 
 # emacs backup files
 *~
+/.jekyll-cache/

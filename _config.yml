@@ -16,7 +16,7 @@ url:              "https://yu-group.github.io/stat-215a-fall-2021/"
 baseurl:          "/stat-215a-fall-2021"
 
 author:
-  name:           'Bin Yu, James Duncan'
+  name:           'Bin Yu, Omer Ronen'
   url:            "https://yu-group.github.io/stat-215a-fall-2021/"
 
 paginate:         5
@@ -24,3 +24,5 @@ paginate:         5
 repository: Yu-Group/stat-215a-fall-2021
 
 gems: ["jekyll-github-metadata"]
+
+encoding: utf-8

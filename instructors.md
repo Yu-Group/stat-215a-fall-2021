@@ -15,7 +15,7 @@ Email: binyu
 
 ## GSI
 
-[comment]: <> (![James Duncan]&#40;{{ "/assets/images/james.jpg" | relative_url }}#staff-image&#41;)
+![Omer Ronen]({{ "/assets/images/omer.png" | relative_url }}#staff-image)
 
 Omer Ronen
 
