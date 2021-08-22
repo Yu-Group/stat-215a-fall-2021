@@ -1,6 +1,6 @@
 ---
 layout: page
-title: STAT 215A Course Information, Fall 2020
+title: STAT 215A Course Information, Fall 2021
 ---
 #### Bin Yu ####
 

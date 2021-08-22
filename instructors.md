@@ -17,6 +17,6 @@ Email: binyu
 
 ![James Duncan]({{ "/assets/images/james.jpg" | relative_url }}#staff-image)
 
-James Duncan
+Omer Ronen
 
-Email: jpduncan
+Email: omer_ronen
