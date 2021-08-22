@@ -12,7 +12,7 @@ plugins: [jekyll-paginate]
 title:            'STAT 215A'
 tagline:          ''
 description:      '[Fall 2021] <br /> Bin Yu <br />'
-url:              "https://yu-group.github.io/stat-215a-fall-2020/"
+url:              "https://yu-group.github.io/stat-215a-fall-2021/"
 baseurl:          "/stat-215a-fall-2021"
 
 author:

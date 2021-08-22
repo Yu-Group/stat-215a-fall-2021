@@ -4,7 +4,7 @@ title: STAT 215A Course Information, Fall 2021
 ---
 #### Bin Yu ####
 
-[Academic Guide Link](https://classes.berkeley.edu/content/2020-fall-stat-215a-001-lec-001).
+[Academic Guide Link](https://classes.berkeley.edu/content/2021-fall-stat-215a-001-lec-001).
 
 ### Lecture Time ###
 TU, TH 11:00 am - 12:29 pm

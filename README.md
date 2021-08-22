@@ -1,6 +1,6 @@
-# STAT 215A Fall 2020 Website
+# STAT 215A Fall 2021 Website
 
-Access the live version at [yu-group.github.io/stat-215a-fall-2020](https://yu-group.github.io/stat-215a-fall-2020/).
+Access the live version at [yu-group.github.io/stat-215a-fall-2021](https://yu-group.github.io/stat-215a-fall-2021/).
 This is based on [Prob 140 website](https://github.com/prob140/prob140.github.io) with the Permission from Prof. Ani Adhikari.
 
 Based on Hyde (a Jekyll Theme)
