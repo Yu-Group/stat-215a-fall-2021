@@ -3,9 +3,9 @@ weeks:
   - weekNum: 1
     weekName: Introduction
     basic:
-    - date: Thu 08/27
+    - date: Thu 08/26
       content: "Lecture 1: Introductions"
-    - date: Fri 08/28
+    - date: Fri 08/27
       content: "Section 0: Git / GitHub + R / Tidyverse"
       assignments:
         - name: "Lab 0: GitHub setup + practice submission"
@@ -13,7 +13,7 @@ weeks:
   - weekNum: 2
     weekName: Week 2
     basic:
-    - date: Tue 09/01
+    - date: Tue 08/31
       content: "Lecture 2: Problem Formulation"
       readings:
         - name: "\"The Future of Data Analysis\" (Tukey, 1962) [please skim]"
@@ -22,31 +22,31 @@ weeks:
           url: https://www.jstor.org/stable/2286841
         - name: "\"Veridical data science\" (Yu and Kumbier, 2020)"
           url: https://www.pnas.org/content/117/8/3920
-    - date: Thu 09/03
+    - date: Thu 09/02
       content: "Lecture 3: Exploratory Data Analysis (EDA)"
-    - date: Fri 09/04
+    - date: Fri 09/03
       content: "Section 1: Workflow + Rmd + Latex + R Tricks + Lab 1"
       assignments:
         - name: Lab 0 due
           url:
         - name: "Lab 1: Redwood data assigned"
-          due: 09/17 at 11:59pm
+          due: 09/16 at 11:59pm
 
   - weekNum: 3
     weekName: Week 3
     basic:
-    - date: Tue 09/08
+    - date: Tue 09/07
       content: "Lecture 4: EDA (Part 2)"
 
-    - date: Thu 09/10
+    - date: Thu 09/09
       content: "Lecture 5: EDA (Part 3)"
-    - date: Fri 09/11
+    - date: Fri 09/10
       content: "Section 2: Advanced visualization techniques"
       
   - weekNum: 4
     weekName: Week 4
     basic:
-    - date: Tue 09/15
+    - date: Tue 09/14
       content: "Lecture 6: Prediction and assessment"
       readings:
         - name: "\"Growth in a Time of Debt\" (Reinhart & Rogoff, 2010)"
@@ -58,24 +58,24 @@ weeks:
         - name: "Seeing is Believing: 5 Studies about Visual Information Processing"
           url: "https://piktochart.com/blog/5-psychology-studies-that-tell-us-how-people-perceive-visual-information/"
 
-    - date: Thu 09/17
+    - date: Thu 09/16
       content: "Lecture 7: Prediction and assessment (Part 2)"
       readings:
         - name: "\"What's Wrong with Social Science and How to Fix It: Reflections After Reading 2578 Papers\""
           url: "https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/"
       assignments:
         - name: Lab 1 due at 11:59pm
-    - date: Fri 09/18
+    - date: Fri 09/17
       content: "Section 3: TBA"
-    - date: Sun 09/20
+    - date: Sun 09/19
       assignments:
         - name: Lab 1 Peer Review assigned
-          due: 09/27 at 11:59pm
+          due: 09/26 at 11:59pm
 
   - weekNum: 5
     weekName: Week 5
     basic:
-    - date: Tue 09/22
+    - date: Tue 09/21
       content: "Lecture 8: Stability"
       readings:
         - name: "Stability-driven nonnegative matrix factorization to interpret spatial gene expression and build local gene networks (Wu et al. 2016)"
@@ -86,21 +86,21 @@ weeks:
           url: "https://doi.org/10.21136/CMJ.1973.101168"
         - name: "\"Normalized Cuts and Image Segmentation\" (Shi and Malik, 2000)"
           url: "https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf"
-    - date: Thu 09/24
+    - date: Thu 09/23
       content: "Lecture 9: Stability (Part 2)"
-    - date: Fri 09/25
+    - date: Fri 09/24
       content: "Section 4: TBA"
       assignments:
         - name: Lab 2 assigned
           due: 10/08 at 11:59pm
-    - date: Sun 09/27
+    - date: Sun 09/26
       assignments:
         - name: Lab 1 Peer Review due at 11:59pm
 
   - weekNum: 6
     weekName: Week 6
     basic:
-    - date: Tue 09/29
+    - date: Tue 09/28
       content: "Lecture 10: Stability (Part 3)"
       readings:
         - name: "\"Minimum information about clinical artificial intelligence modeling: the MI-CLAIM checklist\" (Norgeot et al., 2020)"
@@ -117,9 +117,9 @@ weeks:
           url: "https://www.jstor.org/stable/1269730?seq=1"
         - name: "Elastic net paper by Zuo and Hastie (2005)"
           url: "https://www.jstor.org/stable/3647580?seq=1"
-    - date: Thu 10/01
+    - date: Thu 09/30
       content: "Section 5: TBA"
-    - date: Fri 10/02
+    - date: Fri 10/01
       content: "Lecture 11: Stability (Part 4)"
       readings:
         - name: "Garrigues and El Ghaoui (2018) on on-line Lasso"
@@ -130,7 +130,7 @@ weeks:
   - weekNum: 7
     weekName: Week 7
     basic:
-    - date: Tue 10/06
+    - date: Tue 10/05
       content: "Lecture 12: Sources of randomness"
       readings:
         - name: "Notes on Ridge Regression by van Wieringen"
@@ -142,25 +142,25 @@ weeks:
         - name: "\"Remarks on nonparametric estimates of a density function\" Rosenblatt (1956)"
           url: "https://projecteuclid.org/download/pdf_1/euclid.aoms/1177728190"
 
-    - date: Thu 10/08
+    - date: Thu 10/07
       content: "Lecture 13: Sources of randomness (Part 2)"
       readings:
         - name: "Saltelli et al (2020) on five ways to ensure models serve society"
           url: "https://www.nature.com/articles/s41599-020-00557-0"
       assignments:
         - name: Lab 2 due at 11:59pm
-    - date: Fri 10/09
+    - date: Fri 10/08
       content: "Section 6: Introduce Lab 3"
-    - date: Sun 10/11
+    - date: Sun 10/10
       assignments:
         - name: Lab 2 Peer Review assigned
-          due: 10/18 at 11:59pm
+          due: 10/17 at 11:59pm
 
   
   - weekNum: 8
     weekName: Week 8
     basic:
-    - date: Tue 10/13
+    - date: Tue 10/12
       content: "Section 7: TBA"
       assignments:
         - name: Lab 3 assigned
@@ -173,9 +173,9 @@ weeks:
         - name: "Lin (2013)"
           url: "https://projecteuclid.org/euclid.aoas/1365527200"
         - name: "Freedman book chapter 4: linear regression models"
-    - date: Thu 10/15
+    - date: Thu 10/14
       content: "Lecture 14: Sources of randomness (Part 3)"
-    - date: Fri 10/16
+    - date: Fri 10/15
       content: "Lecture 15: Bootstrap. Interpretation."
       readings:
         - name: "Freedman book chapter 5"
@@ -183,40 +183,40 @@ weeks:
           url: "https://www.tandfonline.com/doi/abs/10.1080/01621459.1989.10478858"
         - name: "Ali et al (2019) paper on facebook ad process"
           url: "https://arxiv.org/abs/1904.02095"
-    - date: Sun 10/18
+    - date: Sun 10/17
       assignments:
         - name: Lab 2 Peer Review due at 11:59pm
   
   - weekNum: 9
     weekName: Week 9
     basic:
-    - date: Tue 10/20
+    - date: Tue 10/19
       content: "Section 8: Midterm review"
-    - date: Thu 10/22
+    - date: Thu 10/21
       content: "Lecture 16: Bootstrap. Interpretation. (Part 2)"
       assignments:
         - name: Lab 3 due at 11:59pm
-    - date: Fri 10/23 (1-2:30pm)
+    - date: Fri 10/22 (1-2:30pm)
       content: "Lecture 17: Classification"
 
   - weekNum: 10
     weekName: Week 10
     basic:
-    - date: Tue 10/27
+    - date: Tue 10/26
       content: "Midterm Review"
-    - date: Thu 10/29
+    - date: Thu 10/28
       content: "Midterm Exam"
-    - date: Fri 10/30
+    - date: Fri 10/29
       content: "Section 9: Introduce Lab 4"
   
   - weekNum: 11
     weekName: Week 11
     basic:
-    - date: Mon 11/02
+    - date: Mon 11/01
       assignments:
         - name: "Lab 4: Group Project assigned"
           due: "11/19 at 11:59pm"
-    - date: Tue 11/03 (attendance optional for voting day!)
+    - date: Tue 11/02
       content: "Lecture 18: Inference for logistic regression"
       readings:
         - name: "A Gentle Introduction to Risk-limiting Audits (Lindeman and Stark, 2012)"
@@ -224,34 +224,34 @@ weeks:
         - name: "Do-no-harm playbook by Ripley and Kleinfeld (2020)"
           url: "https://electionsos.com/resource/how-to-cover-electoral-conflict/"
         - name: "SPRT Derivation (on bCourses)"
-    - date: Thu 11/05
+    - date: Thu 11/04
       content: "Lecture 19: Logistic regression, Exponential family"
       readings:
         - name: "Dobson Ch. 3-4"
-    - date: Fri 11/06
+    - date: Fri 11/05
       content: "Section 9: TBA"
   
   - weekNum: 12
     weekName: Week 12
     basic:
-    - date: Tue 11/10
+    - date: Tue 11/09
       content: "Lecture 20: Logistic regression, Exponential family (Part 2)"
-    - date: Thu 11/12
+    - date: Thu 11/11
       content: "Lecture 21: GLMs, Iteratively Reweighted Least Squares"
       readings:
         - name: "D. F. Freedman and D. Lane (1983) \"A Nonstochastic Interpretation of Reported Significance Levels\""
           url: "https://www.jstor.org/stable/1391660"
         - name: "D. F. Freedman (1995) Some issues in the foundation of statistics"
           url: "https://link.springer.com/article/10.1007/BF00208723"
-    - date: Fri 11/13
+    - date: Fri 11/12
       content: "Section 10: TBA"
   
   - weekNum: 13
     weekName: Week 13
     basic:
-    - date: Tue 11/17
+    - date: Tue 11/16
       content: "Lecture 22: GLMs, Iteratively Reweighted Least Squares (Part 2)"
-    - date: Thu 11/19
+    - date: Thu 11/18
       readings:
         - name: "Reread: \"Veridical data science\" (Yu and Kumbier, 2020)"
           url: "https://www.pnas.org/content/117/8/3920"
@@ -260,36 +260,36 @@ weeks:
       content: "Lecture 23: Statistical Inference. PCS inference."
       assignments:
         - name: "Lab 4 due at 11:59pm"
-    - date: Fri 11/20
+    - date: Fri 11/19
       content: "Section 11: Intro to COVID-19 data (guest speaker Tiffany Tang)"
       assignments:
         - name: Final Project assigned
-          due: "12/11 at 11:59pm"
+          due: "12/10 at 11:59pm"
   
   - weekNum: 14
     weekName: Week 14
     basic:
-    - date: Tue 11/24
+    - date: Tue 11/23
       content: "Lecture 24: Statistical Inference. PCS inference. (Part 2)"
-    - date: Thu 11/26
+    - date: Thu 11/25
       content: "Thanksgiving Break"
-    - date: Fri 11/27
+    - date: Fri 11/26
       content: "Thanksgiving Break"
   
   - weekNum: 15
     weekName: Week 15
     basic:
-    - date: Tue 12/01
+    - date: Tue 11/30
       content: "Lecture 25: Advanced topics"
-    - date: Thu 12/03
+    - date: Thu 12/02
       content: "Lecture 26: Advanced topics (Part 2)"
-    - date: Fri 12/04
+    - date: Fri 12/03
       content: "Extra OH"
   
   - weekNum: RRR
     weekName: RRR Week
     basic:
-    - date: Fri 12/11
+    - date: Fri 12/10
       assignments:
         - name: Final Project due at 11:59pm
   
