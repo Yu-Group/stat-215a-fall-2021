@@ -192,10 +192,10 @@ weeks:
     basic:
     - date: Tue 10/19
       content: "Section 8: Midterm review"
+
     - date: Thu 10/21
-      content: "Lecture 16: Bootstrap. Interpretation. (Part 2)"
-      assignments:
-        - name: Lab 3 due at 11:59pm
+      content: "Midterm Exam"
+
     - date: Fri 10/22 (1-2:30pm)
       content: "Lecture 17: Classification"
 
@@ -203,9 +203,9 @@ weeks:
     weekName: Week 10
     basic:
     - date: Tue 10/26
-      content: "Midterm Review"
-    - date: Thu 10/28
-      content: "Midterm Exam"
+      content: "Lecture 16: Bootstrap. Interpretation. (Part 2)"
+      assignments:
+        - name: Lab 3 due at 11:59pm
     - date: Fri 10/29
       content: "Section 9: Introduce Lab 4"
   
