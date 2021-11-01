@@ -248,6 +248,7 @@ weeks:
       assignments:
         - name: Final Project assigned
           due: "12/10 at 11:59pm"
+        - name: "Lab 4 due at 11:59pm"
   
   - weekNum: 13
     weekName: Week 13
@@ -261,8 +262,6 @@ weeks:
         - name: "Dwivedi et al. (2020) Stable discovery of interpretable subgroups via calibration in causal studies"
           url: "https://arxiv.org/pdf/2008.10109.pdf"
       content: "Lecture 23: Statistical Inference. PCS inference."
-      assignments:
-        - name: "Lab 4 due at 11:59pm"
     - date: Fri 11/19
       content: "Section 11: Intro to COVID-19 data (guest speaker Tiffany Tang)"
 
