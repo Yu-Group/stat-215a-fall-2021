@@ -245,6 +245,9 @@ weeks:
           url: "https://link.springer.com/article/10.1007/BF00208723"
     - date: Fri 11/12
       content: "Section 10: TBA"
+      assignments:
+        - name: Final Project assigned
+          due: "12/10 at 11:59pm"
   
   - weekNum: 13
     weekName: Week 13
@@ -262,9 +265,7 @@ weeks:
         - name: "Lab 4 due at 11:59pm"
     - date: Fri 11/19
       content: "Section 11: Intro to COVID-19 data (guest speaker Tiffany Tang)"
-      assignments:
-        - name: Final Project assigned
-          due: "12/10 at 11:59pm"
+
   
   - weekNum: 14
     weekName: Week 14
